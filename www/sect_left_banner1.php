@@ -1,0 +1,1 @@
+<a href="/catalog/sistemy_bezopasnosti/videonablyudenie/ip_kamery/axis/" title="Все модели камер Axis"><img src="<?=SITE_TEMPLATE_PATH?>/images/Banner/left_banner1.jpg" alt=""></a>
